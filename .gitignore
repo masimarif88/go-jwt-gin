@@ -1,0 +1,20 @@
+# Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build output
+/bin/
+/dist/
+
+# Environment files
+.env
+
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
